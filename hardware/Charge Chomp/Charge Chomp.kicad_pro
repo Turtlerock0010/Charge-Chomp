@@ -726,7 +726,7 @@
         "uuid": "9ea3ddb5-6a45-486d-8d31-9d73fcc70c7c"
       }
     ],
-    "used_designators": "#PWR3,#PWR26-27,USBC1,USB1",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
